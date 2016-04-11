@@ -1,0 +1,13 @@
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\bin\Debug\GameBasic.dll
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\bin\Debug\GameCompact.dll
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\bin\Debug\GameImmutable.dll
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\bin\Debug\GameBasic.pdb
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\bin\Debug\GameCompact.pdb
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\bin\Debug\GameImmutable.pdb
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\obj\Debug\Practice_EncapsulationTests.csprojResolveAssemblyReference.cache
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\bin\Debug\Tests.dll
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\bin\Debug\Tests.pdb
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\obj\Debug\Tests.dll
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\Practice_EncapsulationTests\obj\Debug\Tests.pdb

@@ -1,0 +1,5 @@
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\GameImmutable\bin\Debug\GameImmutable.dll
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\GameImmutable\bin\Debug\GameImmutable.pdb
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\GameImmutable\obj\Debug\GameImmutable.dll
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\GameImmutable\obj\Debug\GameImmutable.pdb
+F:\8 семестр\ПЧМИ\Practice_Encapsulation\GameImmutable\obj\Debug\GameImmutable.csprojResolveAssemblyReference.cache
